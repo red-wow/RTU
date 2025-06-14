@@ -1,7 +1,7 @@
 # Channels
 **All channels in RTU. Last update: 14/06/2025**
 
-~ Uncategorized 
+~ Uncategorized <br>
 Members: {.} (1251313949119610941)
 
 ~ Quarantine Tickets (1354175081374552115)
