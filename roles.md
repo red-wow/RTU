@@ -9,8 +9,8 @@
 ⚫ <br>
 ⚪ Holder <br>
 🟠 Owner <br>
-⚪ .  <br>
-⚪ .  <br>
+⚪ .  // Bri's Role and bots <br>
+⚪ .  // Bots roles and stuff <br>
 🟠 Co-Owner <br>
 ⚪ ownership identification <br>
 ⚫ <br>
@@ -51,7 +51,7 @@
 🟠 the famous sniper <br>
 🟢 Scripter <br>
 🔴 Chat Bypasser <br>
-🟣 Glitcher <br>
+🟣 Glitcher <br> 
 🔵 Event Attendee <br>
 ⚫  <br> 
 ⚪ RTU Backup <br>
@@ -61,7 +61,7 @@
 🔵 approved by burnt <br>
 🟢 Trusted <br>
 ⚫  <br>
-🔴 X4J7PLM Blacklisted <br>
+🔴 X4J7PLM Blacklisted <br> // zero idea what this is
 🔴 Staff Blacklisted <br>
 🔴 Staff Strike 1 <br>
 🔴 Staff Strike 2 <br>
