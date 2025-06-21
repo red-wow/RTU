@@ -3,11 +3,12 @@
  █▀█ █▀▀ ▄▀█ █▀▄ █▀▄▀█ █▀▀
  █▀▄ ██▄ █▀█ █▄▀ █░▀░█ ██▄
 
-This script was public on Github on Burnt's orginial account before deletion.
+This script was PUBLIC on Github on Burnt's orginial account before deletion.
 
-The content is NOT changed by any of us, but is stored her for puposes.
+The content is NOT changed by any of us, but is stored here for reasons.
 
-Please get in contact for further information.          --]]
+Please get in contact for further information.           --]]
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "Washiez Exploits",
