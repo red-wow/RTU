@@ -273,10 +273,9 @@ local Button = Tab:CreateButton({
 })
 
 local isSpamming = false
-local Toggle = Tab:CreateToggle({                         --- wait, please note                    ⚠️⚠️⚠️
-    Name = "Spam Discord Invite",                         ---                  REMEMBER TO CHANGE THE INVITE THAT IS BELOW!
-    CurrentValue = false,                                 ---                                      ⚠️⚠️⚠️                        to your custom choice!
-    Flag = "SpamToggle",                                  ---    unless you want to use rtu's
+local Toggle = Tab:CreateToggle({
+    CurrentValue = false,  
+    Flag = "SpamToggle", 
     Callback = function(Value)
         isSpamming = Value
         if isSpamming then
