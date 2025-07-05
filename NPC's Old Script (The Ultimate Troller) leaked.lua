@@ -6,14 +6,15 @@
 This script was PUBLIC on Github on Burnt's orginial account before deletion.
 
 The content is NOT changed by any of us, but is stored here for reasons.
+-> I forgot I changed some parts for my use. It has now been changed back to the orginial one. SORRY!
 
 Please get in contact for further information.           --]]
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-    Name = "Washiez Exploits",
-    LoadingTitle = "Washiez Exploit Panel",
-    LoadingSubtitle = "An exploit for Washiez Car Wash Trolling",
+    Name = "Washiez Troller",
+    LoadingTitle = "The Ultimate Washiez Troller",
+    LoadingSubtitle = "Made By npc",
     ConfigurationSaving = {
        Enabled = false,
        FolderName = nil, -- Create a custom folder for your hub/game
@@ -90,7 +91,7 @@ local function checkAndNotifyHR(player)
 end
 
 -- Notify that the script is working
-sendNotification("NOTIFICATION", "Scanner is WORKING.")
+sendNotification("NOTIFICATION", "Scanner is WORKING. You will be notified whenever an HR joins.")
 
 -- Listen for new players joining
 game.Players.PlayerAdded:Connect(checkAndNotifyHR)
@@ -274,15 +275,16 @@ local Button = Tab:CreateButton({
 
 local isSpamming = false
 local Toggle = Tab:CreateToggle({
-    CurrentValue = false,  
-    Flag = "SpamToggle", 
+    Name = "Spam Discord Invite",
+    CurrentValue = false,
+    Flag = "SpamToggle",
     Callback = function(Value)
         isSpamming = Value
         if isSpamming then
             spawn(function()
                 while isSpamming do
                     wait(1) -- Wait for 1 second
-                    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("please change me in your script, thanks!", "All")     -- ⬅️ change whats in the " to your custom choice!
+                    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(". g g / rоblоxtrоllеrѕ", "All")
                 end
             end)
         end
